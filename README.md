@@ -14,8 +14,14 @@ The following **required** functionality is completed:
 - [x] Tapping the button changes the screen color to a random color
  
 ## Video Walkthrough
-
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
+<div>
+    <a href="https://www.loom.com/share/a3647a608bda4506b6c923deac3c5e90">
+      <p>Prework-IOS101 - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/a3647a608bda4506b6c923deac3c5e90">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/a3647a608bda4506b6c923deac3c5e90-c8b43bb993ef6ef5-full-play.gif">
+    </a>
+  </div> 
 
 [Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
 
